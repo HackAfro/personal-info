@@ -1,0 +1,20 @@
+Hello Sir/Ma,  
+
+I'm Richard Umoffia, a software engineer with thorough hands-on experience in web development, 
+web performance optimization and the ability to troubleshoot and solve problems in a timely and accurate manner. 
+
+I’ve been described as a supportive and enthusiastic team player dedicated to streaming processes and efficiency.  
+My professional experience includes using programming languages and frameworks such as Angular, React,
+Python and JavaScript to create various features for web platforms.
+
+I also have experience in developing server-side applications using Node.js and Django and managing continuous
+integration pipelines using CircleCI and GitHub actions. Combine this with my ability to thrive in a 
+collaborative environment, and I think that makes me a perfect fit for your company.  
+
+As a true believer in continued education, I am continuously researching and seeking new software and methods to 
+assist with product development. I hope to bring my knowledge, and future knowledge, to your organization. 
+Attached is a copy of my resume that further explains my background and technical skills.  
+
+Thank you for your time and consideration. I look forward to hearing from you.  
+
+Sincerely, Richard Umoffia
